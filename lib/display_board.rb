@@ -17,6 +17,7 @@ def display_board
   row2=tictactoeArray[3]+"|"+tictactoeArray[4]+"|"+tictactoeArray[5]
   row3=tictactoeArray[6]+"|"+tictactoeArray[7]+"|"+tictactoeArray[8]
   board=row1+"\n"+row_delimiter+"\n"+row2+"\n"+row_delimiter+"\n"+row3
+  "hey"
   puts board
 end
 display_board
