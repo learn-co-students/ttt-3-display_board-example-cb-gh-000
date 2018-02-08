@@ -2,11 +2,11 @@
 def display_board
   array = ["   ", "|", "   ", "|", "   "]
   String dash = "-----------"
-  puts array.join('')
+  puts array.join
   puts dash
-  puts array.join('')
+  puts array.join
   puts dash
-  puts array.join('')
+  puts array.join
 end
 
 display_board
