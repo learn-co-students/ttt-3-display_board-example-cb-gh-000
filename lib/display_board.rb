@@ -9,3 +9,4 @@ def display_board
   puts "#{cell}#{pipe_separator}#{cell}#{pipe_separator}#{cell}"
   puts "#{dash_separator}"
   puts "#{cell}#{pipe_separator}#{cell}#{pipe_separator}#{cell}"
+end
